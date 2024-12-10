@@ -3,8 +3,6 @@
 ## Overview
 A training repository that hosts exercises done and assesments conducted.
 
-[Solution]()
-
 ## Exercises
 
 ### [Easy Problems](exercises/easy)
@@ -17,7 +15,7 @@ A training repository that hosts exercises done and assesments conducted.
 
 ### [Hard Problems](exercises/hard)
 
-- [Algorithms: Binary Search](https://edabit.com/challenge/kKFuf9hfo2qnu7pBe) - [Solution](exercises/hard/q1_algorithms_ binary_search.py)
+- [Algorithms: Binary Search](https://edabit.com/challenge/kKFuf9hfo2qnu7pBe) - [Solution](exercises/hard/q1_algorithms_binary_search.py)
 - [Checking Palindrome String Using Stack](https://edabit.com/challenge/LL9RJMMqKD9fCB2HN) - [Solution](exercises/hard/q2_checking_palindrome_string_using_stack.py)
 - [Combine Arrays](https://edabit.com/challenge/pqtqDvRSKNWHAMsF2) - [Solution](exercises/hard/q3_combine_arrays.py)
 - [Remove The Word!](https://edabit.com/challenge/gH3QMvF3czMDjENkk) - [Solution](exercises/hard/q4_remove_the_word.py)
@@ -35,3 +33,8 @@ A training repository that hosts exercises done and assesments conducted.
 - [Layers in a Rug](https://edabit.com/challenge/LaBMjgbMjf5BajczX) - [Solution](exercises/hard/q16_layers_in_a_rug.py)
 - [Cup Swapping](https://edabit.com/challenge/M47FDJLjfNoZ6k6gF) - [Solution](exercises/hard/q17_cup_swapping.py)
 - [Round to Closest N](https://edabit.com/challenge/zZyeau2MYcEc8Fdtk) - [Solution](exercises/hard/q18_round_to_closest_n.py)
+
+## Assessments
+
+- [Nov 21 2024](assessments/20241121)
+- [Dec 05 2024](assessments/20241205)
